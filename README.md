@@ -5,6 +5,8 @@ A template project for working with UITableView with the most popular methods im
 
 # Licence
 
+**Bottom Line - Use however you like**
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Adam Gask
